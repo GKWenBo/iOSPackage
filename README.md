@@ -17,6 +17,7 @@ xcode-select --install
 ```
 
 - Install fastlane
+```
 brew cask install fastlane
 ```
 
